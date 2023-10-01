@@ -1,4 +1,4 @@
-# Aidan McCoy
+# Aidan McCoy 10-1-2023
 # UOCIS322 - Project 0
 
 Trivial project to exercise version control, turn-in, and other mechanisms
